@@ -2,8 +2,6 @@
 
 This is the first commit from the develop branch
 
-This is new line
-
-This is dev-3
+This is from dev-2 and dev-1
 
 This is dev-4
